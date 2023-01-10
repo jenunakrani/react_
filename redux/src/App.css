@@ -1,0 +1,40 @@
+.height{
+  border: 2px solid grey;
+  border-bottom: 10px;
+}
+input  placeholder{
+  color: rgb(165, 164, 164);
+}
+h1{
+  padding-top: 70px;
+}
+input{
+  margin: 5px;
+  border-radius: 10px;
+  height: 20px;
+
+}
+.bmi{
+  width: 500px;
+  background-color: rgb(49, 48, 48);
+  height: 500px;
+  color: rgb(165, 164, 164);
+  border-radius: 50px;
+
+}
+
+button{
+  border-radius: 20px;
+  border: 1px solid grey;
+  margin-top: 30px;
+  height: 30px;
+  width: 70px;
+}
+button:hover{
+  background-color: rgb(49, 48, 48);
+  border: 2px solid aliceblue;
+  color: aliceblue;
+}
+.note{
+  color: rgb(255, 255, 255);
+}

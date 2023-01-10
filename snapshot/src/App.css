@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.heding{
+  font-size: 70px;
+  padding-top: 60px;
+  color: #051C33;
+}
+.button{
+  background-color:#051C33;
+  color: white;
+  margin-right: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bolder;
+  cursor: pointer;
+  text-decoration: none;
+}
+Link:hover{
+  color: rgb(101, 132, 159);
+}
+.serch{
+  margin-bottom: 40px;
+}
+/* =========================== beach======================================= */
+.imges img{
+  height: 170px;
+  width: 245px;
+}
+.imges img:hover{
+  transform: scale(1.1);
+  transition-duration: 1s;
+}
